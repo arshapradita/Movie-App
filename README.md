@@ -6,4 +6,4 @@
 
 # Movie App
 
-Preview : #
+Preview : https://movie-ars.netlify.app/
